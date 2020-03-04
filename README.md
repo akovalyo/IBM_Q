@@ -2,9 +2,9 @@
 
 ## [Qiskit](https://qiskit.org/)
 
-#### [Installation](https://github.com/Qiskit/qiskit-iqx-tutorials/blob/master/INSTALL.md)
+#### 1. [Installation](https://github.com/Qiskit/qiskit-iqx-tutorials/blob/master/INSTALL.md)
 
-#### Run
+#### 2. Run
 
 * Open notebook
 ```
