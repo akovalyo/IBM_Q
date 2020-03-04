@@ -21,16 +21,11 @@ import qiskit
 * Add credentials to Qiskit
 ```python
 from qiskit import IBMQ
-```
-```python
 IBMQ.save_account('MY_API_TOKEN')
 ```
 
 * Load credentials
 ```python
 from qiskit import IBMQ
-```
-```python
 IBMQ.load_account()
 ```
-
